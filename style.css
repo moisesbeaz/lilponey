@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+h1 {
+    color:aquamarine;
+    font-family: 'Rubik 80s fade';
+    font-weight: 100;
+    font-size: 400;
+}
+p {
+    color:cadetblue
+}
+img {
+    border: 3px solid gray;
+    border-radius: 1em;
+}
+h2{
+    color:greenyellow;
+}
